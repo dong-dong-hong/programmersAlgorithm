@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.java;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.java;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=java
 // 조건 문자열

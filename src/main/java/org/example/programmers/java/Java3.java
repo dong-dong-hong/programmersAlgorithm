@@ -1,4 +1,4 @@
-package org.example.programmers;
+package org.example.programmers.java;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/120878
 // 유한소수 판별하기
